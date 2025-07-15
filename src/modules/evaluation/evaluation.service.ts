@@ -152,7 +152,7 @@ export class LegalEvaluationService {
             fileName: 'part01.txt',
             content:
               'CPR 1.1(1) - These Rules are a procedural code with the overriding objective...',
-            score: 0.95,
+            score: 9,
           },
         ],
       },
@@ -165,7 +165,7 @@ export class LegalEvaluationService {
           {
             fileName: 'part07.txt',
             content: 'Part 7 - How to start proceedings - the claim form...',
-            score: 0.92,
+            score: 9,
           },
         ],
       },
